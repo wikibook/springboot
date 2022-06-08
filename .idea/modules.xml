@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/chapter11_actuator/actuator.iml" filepath="$PROJECT_DIR$/chapter11_actuator/actuator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter8_advanced_jpa/advanced_jpa.iml" filepath="$PROJECT_DIR$/chapter8_advanced_jpa/advanced_jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5_api/api.iml" filepath="$PROJECT_DIR$/chapter5_api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter1/chapter1.iml" filepath="$PROJECT_DIR$/chapter1/chapter1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter2_design_pattern/design_pattern.iml" filepath="$PROJECT_DIR$/chapter2_design_pattern/design_pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello/hello.iml" filepath="$PROJECT_DIR$/hello/hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter6_jpa/jpa.iml" filepath="$PROJECT_DIR$/chapter6_jpa/jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter9_relationship/relationship.iml" filepath="$PROJECT_DIR$/chapter9_relationship/relationship.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter12_rest/rest.iml" filepath="$PROJECT_DIR$/chapter12_rest/rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter13_security/security.iml" filepath="$PROJECT_DIR$/chapter13_security/security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serverBox/serverBox.iml" filepath="$PROJECT_DIR$/serverBox/serverBox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter7_test/test.iml" filepath="$PROJECT_DIR$/chapter7_test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter10_valid_exception/valid_exception.iml" filepath="$PROJECT_DIR$/chapter10_valid_exception/valid_exception.iml" />
+    </modules>
+  </component>
+</project>

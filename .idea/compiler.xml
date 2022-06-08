@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="rest" />
+        <module name="advanced_jpa" />
+        <module name="design_pattern" />
+        <module name="test" />
+        <module name="chapter1" />
+        <module name="serverBox" />
+        <module name="actuator" />
+        <module name="security" />
+        <module name="valid_exception" />
+        <module name="jpa" />
+        <module name="hello" />
+        <module name="api" />
+        <module name="relationship" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="actuator" target="11" />
+      <module name="advanced_jpa" target="11" />
+      <module name="api" target="11" />
+      <module name="chapter1" target="11" />
+      <module name="chapter11_restTemplate" target="11" />
+      <module name="chapter2" target="11" />
+      <module name="chapter4_product" target="11" />
+      <module name="design_pattern" target="11" />
+      <module name="hello" target="11" />
+      <module name="jpa" target="11" />
+      <module name="relationship" target="11" />
+      <module name="rest" target="11" />
+      <module name="security" target="11" />
+      <module name="serverBox" target="11" />
+      <module name="test" target="11" />
+      <module name="valid_exception" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="actuator" options="-parameters" />
+      <module name="advanced_jpa" options="-parameters" />
+      <module name="api" options="-parameters" />
+      <module name="chapter1" options="-parameters" />
+      <module name="chapter11_restTemplate" options="-parameters" />
+      <module name="chapter2" options="-parameters" />
+      <module name="chapter4_product" options="-parameters" />
+      <module name="hello" options="-parameters" />
+      <module name="jpa" options="-parameters" />
+      <module name="relationship" options="-parameters" />
+      <module name="rest" options="-parameters" />
+      <module name="security" options="-parameters" />
+      <module name="serverBox" options="-parameters" />
+      <module name="test" options="-parameters" />
+      <module name="valid_exception" options="-parameters" />
+    </option>
+  </component>
+</project>

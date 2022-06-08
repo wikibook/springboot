@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/chapter1/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter5_api/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter6_jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter4_hello/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter7_advanced_jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter8_relationship/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter9_test/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter10_valid_exception/pom.xml" />
+        <option value="$PROJECT_DIR$/serverBox/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter11_actuator/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter12_rest/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter13_security/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter2_design_pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/hello/pom.xml" />
+        <option value="$PROJECT_DIR$/api/pom.xml" />
+        <option value="$PROJECT_DIR$/test/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/advanced_jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter7_test/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter8_advanced_jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter9_relationship/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="zulu-11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

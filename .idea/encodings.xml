@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/chapter1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter10_valid_exception/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter11_actuator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter12_rest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter13_security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter4_hello/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter4_hello/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter5_api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter5_api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter6_jpa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter7_test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter7_test/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter8_advanced_jpa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter8_advanced_jpa/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter9_relationship/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/serverBox/src/main/java" charset="UTF-8" />
+  </component>
+</project>
