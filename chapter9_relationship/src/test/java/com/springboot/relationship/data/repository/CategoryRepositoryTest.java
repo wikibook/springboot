@@ -39,7 +39,7 @@ class CategoryRepositoryTest {
         List<Product> products = categoryRepository.findById(1L).get().getProducts();
 
         for(Product foundProduct : products){
-            System.out.println(product);
+            System.out.println(foundProduct);
         }
     }
 }
